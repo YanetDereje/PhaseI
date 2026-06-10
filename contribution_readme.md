@@ -1,9 +1,9 @@
-# Contribution [#180]: [Should allow setting camera properties from `<gui><camera>`]
+# Contribution [#3150]: ['[Enhancement] Integrate SIMD with ADC distance computation`]
 
-**Contribution Number:** [1 / 2 / 3]   180 (in sheets) 573 (github)
+**Contribution Number:** [1 / 2 / 3]   116 (in sheets) 3150 (github)
 **Student:** [Your Name] Yanet Dereje  
-**Issue:** [GitHub issue link] https://github.com/gazebosim/gz-gui/issues/573 
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]  Phase I Completed
+**Issue:** [GitHub issue link] [https://github.com/gazebosim/gz-gui/issues/573](https://github.com/opensearch-project/k-NN/issues/3150) 
+**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]  Phase I (In Progress)
 
 ---
 
@@ -11,30 +11,29 @@
 
 [1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
 
---- This issue interests me because it highlights skills that I havent had too much experience on, but also touches on C++. I love that it touches on robotics, which has always been an interest in mine, and I feel like it closely resembles my skills because this issue involves adding support for reading camera properties from a new or existing XML config tag, and so that closely aligns with my embedded systems background. I hope to learn more about config files and how to adjust and enhance these properties to be more accessible for individuals.
+--- 
 
 ## Understanding the Issue
 
 ### Problem Description
 
 [In your own words, what's broken or missing?]
-what may be missing is a function in the <gui><camera> (config file) to not touch the other default plugins.
 
 ### Expected Behavior
 
 [What should happen?]
-once manually installing the plugin, it should not uninstall or turn off the other default plugins.
+
 
 ### Current Behavior
 
 [What actually happens?]
-if you want to configure a camera property in the software, the only way to do it is by loading a specific plugin called MinimalScene, but once you load it in manually, it turns off the other default plugins. So then it makes the process much more grueling and a waste of time.
+
 
 ### Affected Components
 
 [Which parts of the codebase are involved?]
 
----  it involves both functions within both <gui> and <camera>.
+--- 
 
 ## Reproduction Process
 
