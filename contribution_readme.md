@@ -3,7 +3,7 @@
 **Contribution Number:** [1 / 2 / 3]  #7478
 **Student:** [Your Name] Yanet Dereje  
 **Issue:** [GitHub issue link] https://github.com/transmission/transmission/issues/7478 
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]  Phase II Complete
+**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]  Phase II Incomplete
 
 ---
 
